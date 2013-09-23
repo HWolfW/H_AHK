@@ -2,6 +2,7 @@
 ; Version: 0.1
 ; Purpose: Just like linux, opens command prompt at currently open folder directory
 ; Does Not Support UNC Paths as of yet!
+; Works BEST when used with a #IfWinActive ahk_class CabinetWClass (Windows Explorer AHK_CLASS)
 ;------------------------------------------------------------------------------------------------
 ;------------------------------------------------------------------------------------------------
 ;------------------------------------------------------------------------------------------------
